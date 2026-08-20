@@ -45,9 +45,3 @@ The analysis provides a consolidated view of sales performance, profitability, p
 
 
 
-
-
-
-
-
-The analysis provides a consolidated view of sales performance, profitability, product and customer trends, and regional performance, helping identify important business trends and areas of performance.
