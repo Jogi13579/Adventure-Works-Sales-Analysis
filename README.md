@@ -37,6 +37,9 @@ File	Description
 * **Tableau Dashboard** - Interactive Tableau visualizations
 * **Project Presentation** - Detailed project presentation, analysis, insights, challenges and solutions
 
+**<img width="1161" height="656" alt="Screenshot for Dahsboard 1" src="https://github.com/user-attachments/assets/fec6c06b-a5f9-4aef-b329-e11451292e57" />**
+
+
 ## Project Objective
 The objective of this project is to transform raw sales data into meaningful business insights and demonstrate practical skills in data cleaning, SQL, data visualization, dashboard development, and business analysis.
 
